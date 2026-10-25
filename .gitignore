@@ -1,0 +1,9 @@
+/node_modules/
+/.pingroom/
+/.checkout/
+/.env
+/.env.*
+!/.env.example
+/config.json
+*.log
+.DS_Store

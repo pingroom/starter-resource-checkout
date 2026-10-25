@@ -1,0 +1,12 @@
+{
+  "ledgerId": "shared-equipment",
+  "initiallyAvailable": true,
+  "borrowers": [
+    { "id": "11111111-1111-4111-8111-111111111111", "label": "Alex" },
+    { "id": "22222222-2222-4222-8222-222222222222", "label": "Sam" }
+  ],
+  "assets": [
+    { "id": "camera", "name": "Camera", "borrowAction": 1, "returnAction": 2 },
+    { "id": "tripod", "name": "Tripod", "borrowAction": 3, "returnAction": 4 }
+  ]
+}
